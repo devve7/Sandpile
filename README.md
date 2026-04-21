@@ -86,9 +86,6 @@ Run the executable with desired flags:
 
 ---
 
-## Author
-
-This project was created as part of Lab #3 for the course on data exchange with external devices at ITMO University, Faculty of IT and Programming (FITIP).
 
 ---
 
