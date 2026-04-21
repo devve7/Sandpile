@@ -84,8 +84,6 @@ Run the executable with desired flags:
 ./sandpile_sim -i input.tsv -o ./frames -m 1000 -f 10
 ```
 
----
-
 
 ---
 
